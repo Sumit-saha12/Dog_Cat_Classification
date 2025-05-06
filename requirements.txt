@@ -4,4 +4,3 @@ streamlit
 opencv-python
 keras
 pillow
-opencv
